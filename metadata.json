@@ -1,0 +1,5 @@
+{
+  "name": "Elden Ring Save Game Copy Tool",
+  "description": "A web application to copy character save data between Elden Ring save files (ER0000.sl2). Allows transferring characters between different save files or duplicating them, handling SteamID adjustments and checksum recalculations.",
+  "requestFramePermissions": []
+}
